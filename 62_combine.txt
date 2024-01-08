@@ -1,0 +1,1 @@
+ffmpeg -r 1 -i fig.%6d.png -r 1 -vf scale=1000:1000 ani.mp4
