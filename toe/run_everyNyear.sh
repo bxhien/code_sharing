@@ -3,6 +3,8 @@
 #---------------------------------------------------------
 # Make sure the 'dir' here and the ('dir'/'diro') settings in the 2 NCL files
 # are pointing to the correct directories
+# Author: Yi-Xian Li, modified by Hien Bui
+
 dir='./'
 
 N=5 # every N year (your desired output N-year interval)
