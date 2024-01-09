@@ -1,4 +1,5 @@
 ;###########################################################################
+;---Author: Yi-Xian Li, modified by Hien Bui
 ;---Goal: Calculate the eastward shift of the MJO
 ;---Input: MJO precipitation from 100 ensemble members from CESM2-LE
 ;---For details, please check our paper: https://doi.org/10.1175/JCLI-D-23-0213.1
