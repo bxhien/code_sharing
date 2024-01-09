@@ -1,4 +1,5 @@
 ;###########################################################################
+;---Author: Yi-Xian Li, modified by Hien Bui
 ;---Goal: Calculate the consecutive high-pressue days
 ;---Input: omega at 500 hPa and KBDI from CESM2-LE
 ;---For details, please check our paper: https://doi.org/10.1029/2022GL099017
