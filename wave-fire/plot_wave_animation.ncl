@@ -1,6 +1,10 @@
-;-----------------------------------------------------
-;-- Make animation for stationary waves and wildfire
-;-----------------------------------------------------
+;###########################################################################
+;---Author: Yi-Xian Li, modified by Hien Bui
+;---Goal: Make animation for stationary waves and wildfire
+;---For details, please check our paper: https://doi.org/10.1029/2022GL099017
+;---Please send me an email if you have any questions: hien.bui@monash.edu
+;###########################################################################
+
 begin
 
   ntimes   = 81
