@@ -1,4 +1,5 @@
 ;###########################################################################
+;---Author: Yi-Xian Li, modified by Hien Bui
 ;---Goal: Calculate linear regression models to estimate feedback between
 ;soil moisture and next-day precipitation in Australia
 ;---Input: CYGNSS soil moisture and GPM precipitation
