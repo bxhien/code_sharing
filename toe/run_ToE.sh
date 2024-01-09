@@ -6,7 +6,7 @@
 #         * Note that all the above variables are function of lat/lon (i.e., 2 dimensional)
 #         (5) Time of Emergence (ToE) when consecutive N years exceed the upper bound (3-D, including consecutive_year-year dimension)
 
-# Author: Yi-Xian Li (Academia Sinica & National Central University, Taiwan)
+# Author: Yi-Xian Li, modified by Hien Bui
 # Time: 2021/08/03
 
 #---------------------------------------------------------
