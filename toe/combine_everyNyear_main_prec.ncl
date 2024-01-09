@@ -1,3 +1,11 @@
+;###########################################################################
+;---Author: Yi-Xian Li, modified by Hien Bui
+;---Goal: Calculate time of emergence of MJO amplitude
+;---Input: MJO precipitation or wind amplitude timeseries
+;---For details, please check our paper: https://doi.org/10.1038/s41612-023-00344-z
+;---Please send me an email if you have any questions: hien.bui@monash.edu
+;###########################################################################
+
 load "$NCARG_ROOT/lib/ncarg/nclscripts/contrib/kf_filter.ncl"
 begin
 
